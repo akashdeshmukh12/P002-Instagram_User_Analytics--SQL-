@@ -1,12 +1,15 @@
 # P002-Instagram_User_Analytics--SQL-
 
 ## Description:
-	Project Environment: 
+Project Environment:
+ 
 	As a data analyst working with the product team at Instagram. 
  	My role involves analysing user interactions and engagement with the Instagram app,
   	to provide valuable insights that can help the business grow.
    
-	Here, the Project Analysis involves:																	- a] Tracking how users engage with a digital product, such as a software application or a mobile app. 									- b]. The insights derived from this analysis can be used by various teams within the business.
+Here, the Project Analysis involves:
+ 	
+  	- a] Tracking how users engage with a digital product, such as a software application or a mobile app. 									- b]. The insights derived from this analysis can be used by various teams within the business.
 
  
   For example:
@@ -21,7 +24,7 @@
   	 1]. to launch a new marketing campaign, 
    	 2]. decide or discover new updated features to build / add into an App. 
     	 3]. Also, to track the success of the app by measuring user engagement,
-     	 and improve the experience altogether, by helping the business to grow.
+     		 and improve the experience altogether, by helping the business to grow.
 
 # Approach:
 	--1] In this project, I am using SQL and MySQL Workbench as tool to analyse Instagram user data,
