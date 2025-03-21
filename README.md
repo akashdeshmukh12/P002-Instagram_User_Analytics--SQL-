@@ -3,12 +3,12 @@
 ## Description:
 Project Environment: 
 -	As a data analyst working with the product team at Instagram. My role involves analysing user interactions and engagement with the Instagram app to provide valuable insights that can help the business grow.
--	Here, the Project Analysis involves: 
+--	Here, the Project Analysis involves: 
 		a] Tracking how users engage with a digital product, such as a software application or a mobile app. 
-  		b] The insights derived from this analysis can be used by various teams within the business. For example, 
-		-	a.The marketing team might use these insights to launch a new campaign, 
-		-	b.The product team might use them to decide on new features to build, and 
-		-	c.The development team might use them to improve the overall user experience.
+--		b] The insights derived from this analysis can be used by various teams within the business. For example, 
+		--	a.The marketing team might use these insights to launch a new campaign, 
+		--	b.The product team might use them to decide on new features to build, and 
+		--	c.The development team might use them to improve the overall user experience.
 -	The Final insights are then used by teams across the business to launch a new marketing campaign, decide or discover new updated features to build / add into an App. Also, to track the success of the app by measuring user engagement and improve the experience altogether, by helping the business to grow.
 
 # Approach:
