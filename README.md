@@ -22,7 +22,7 @@ Here, the Project Analysis involves:
   
  The Final insights are then used by teams across the business: 
   
-  	 	1]. to launch a new marketing campaign, 
+  	 	 1]. to launch a new marketing campaign, 
     	 2]. decide or discover new updated features to build / add into an App. 
      	 3]. Also, to track the success of the app by measuring user engagement, 
       		and improve the experience altogether, by helping the business to grow.
